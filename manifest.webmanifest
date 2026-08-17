@@ -1,0 +1,16 @@
+{
+  "name": "Dodici Manager Console",
+  "short_name": "Dodici Console",
+  "start_url": "/#dashboard",
+  "display": "standalone",
+  "background_color": "#eeeae1",
+  "theme_color": "#66717b",
+  "icons": [
+    {
+      "src": "/assets/logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
